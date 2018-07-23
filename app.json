@@ -1,0 +1,13 @@
+{
+    "name": "My Schedule Work",
+    "description": "My Schedule Work, which running on Heroku.",
+    "image": "heroku/python",
+    "keywords": ["python", "schedule" ],
+    "addons": [ "heroku-postgresql" ],
+    "env": {
+    },
+    "environments": {
+
+    }
+  }
+  
