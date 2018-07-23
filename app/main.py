@@ -4,7 +4,7 @@ import random
 import schedule
 import time
 
-from api import job
+from app.api import job
 
 
 if __name__ == '__main__':
