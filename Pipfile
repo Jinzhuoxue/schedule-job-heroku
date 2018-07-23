@@ -7,6 +7,10 @@ verify_ssl = true
 [packages]
 
 schedule = "*"
+bottle = "*"
+gevent = "*"
+greenlet = "*"
+gunicorn = "*"
 
 [requires]
 
