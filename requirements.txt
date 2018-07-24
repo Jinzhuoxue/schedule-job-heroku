@@ -1,2 +1,2 @@
-schedule == "0.5.0"
-tushare == "1.0.5"
+schedule == 0.5.0
+tushare == 1.2.4
